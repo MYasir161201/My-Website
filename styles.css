@@ -1,0 +1,46 @@
+body{ margin: 0; text-align: center; font-family: Merriweather; }
+p{ line-height: 2;}
+.container1{ padding-top: 120px;  position: relative; background-color:#c5e2eb;}
+
+.cloud1{position: absolute; top: 90px; right: 200px;}
+
+.cloud2{ position: absolute; bottom: 450px; left: 140px;}
+
+.mountain{margin-bottom: -10px;}
+
+.heading1{ font-size: 5.625rem; font-family: Sacramento,cursive; margin-bottom:0;
+   color:#03a9f4;}
+h2{font-size: 1.5rem; font-family: Montserrat,sans-serif; padding-bottom: 30px;
+  color:#03a9f4; }
+
+hr{ border: 5px dotted grey;  border-bottom: none; width:6%; margin: 80px auto;}
+
+.container2{text-align: center; margin-bottom: 60px}
+.me{height: 150px; width: 150px}
+.head2{padding-bottom: 0; color:#03a9f4;}
+.para1{width: 40%; margin: 30px auto;}
+
+.subhead{ color:#03a9f4; font-family: Montserrat,sans-serif; padding-bottom: 30px;
+        margin-top:60px; font-size: 3.2rem }
+.skill-row{width: 54%; margin:50px auto 50px auto;
+          text-align: left;}
+.boy{float:left; margin-right:30px; }
+.boy2{float:right; margin-left:5px; }
+
+.contact{  text-align:center;}
+.btn{
+  color: white;
+  background-color: #03a9f4;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none; padding:10px 10px;
+  border-radius:5px;
+}
+
+.btn:hover{ background-color:#0c83b9;}
+
+.container3{ background-color:#03a9f4; padding-top:35px;}
+.copyright{font-size: 0.8rem; color:white; padding: 20px 0;}
+.footer{ text-decoration: none;
+      color: #27566a;}
+.footer:hover{ color: white;}
